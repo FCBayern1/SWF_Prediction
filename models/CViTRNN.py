@@ -1,8 +1,3 @@
-"""
-CViTRNN完整模型实现
-基于论文: Multidimensional Collaborative Learning for Wind Power Forecasting
-"""
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F

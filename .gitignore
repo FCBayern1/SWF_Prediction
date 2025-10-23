@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Model files (large)
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Data files (LARGE - do not commit)
+Data/*.csv
+Data/*.npz
+Data/*.pkl
+Data/*.txt
+
+# Results and logs
+*.json
+*_results/
+experiments/
+logs/
+
+# Visualization outputs
+*.png
+*.jpg
+*.jpeg
+
+# Documents
+*.pdf
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

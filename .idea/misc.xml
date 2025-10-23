@@ -3,5 +3,8 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.9 virtualenv at ~/venv_chronix2grid" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 virtualenv at ~/venv_chronix2grid" project-jdk-type="Python SDK" />
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (SWF_Prediction)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (SWF_Prediction)" project-jdk-type="Python SDK" />
 </project>
